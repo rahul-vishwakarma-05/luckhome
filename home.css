@@ -189,7 +189,7 @@ hr{
   justify-content: space-between;
   align-items: center;
   position: fixed;
-  bottom: 0;
+  bottom: 6.4rem;
   z-index: 4;
   border-top-left-radius: 2rem;
   border-top-right-radius: 2rem;
