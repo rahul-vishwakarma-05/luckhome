@@ -205,7 +205,7 @@ display: none; /* for Chrome, Safari, and Opera */
 
 #footer{
   position: absolute;
-  bottom  : 1rem;
+  bottom  : 4rem;
   left    : 2.5%;
   width   : 95%;
   height  : 60px;
